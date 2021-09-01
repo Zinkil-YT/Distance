@@ -1,0 +1,7 @@
+name: Distance
+main: Zinkil\Distance\Loader
+api: 3.0.0
+version: 1.0.0
+author: Zinkil
+website: https://github.com/Zinkil-YT
+description: "Plugin That Show Distance (Reach) Between Players On Hit."
